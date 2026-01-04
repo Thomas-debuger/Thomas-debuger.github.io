@@ -12,13 +12,13 @@
 **【專業技能】**   
 • 程式語言： C/C++ (基礎邏輯)、C# (WinForm 應用開發)、JavaScript (jQuery 網頁開發)   
 • 硬體描述： Verilog, VHDL (具備數位電路設計基礎)   
-• 語言能力： 全民英檢中級、TOEIC (目標突破 750+)   
+• 語言能力： 全民英檢中級、TOEIC綠色證數 (目標突破 800+)   
 **【重點專案】**   
 • [作品名稱 A]： 使用 C# 實作，解決了...，獲得學期成績 90 分。   
 • [作品名稱 B]： 運用 Verilog 設計簡易 CPU/運算器，熟悉 FPGA 流程。   
 **【學習態度】**   
-• 維持系排前 20%，具備良好的學術基礎。   
-• 積極參與 PUPC 等外部競賽，培養面對未知技術挑戰的抗壓性。   
+• 維持系排 20% 左右和CPE兩題，具備一定的學術基礎。   
+• 積極參與 PUPC 等外部資訊競賽，培養面對未知技術挑戰的抗壓性。   
 
 **成績單：**   
 ![image](https://github.com/Thomas-debuger/Thomas-debuger.github.io/blob/main/Picture/%E5%A4%A7%E4%B8%80%E6%88%90%E7%B8%BE%E5%96%AE.pdf)
