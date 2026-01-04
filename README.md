@@ -21,7 +21,7 @@
 • 積極參與 PUPC 等外部資訊競賽，培養面對未知技術挑戰的抗壓性。   
 
 **成績單：**   
-![image](https://github.com/Thomas-debuger/Thomas-debuger.github.io/blob/main/Picture/%E5%A4%A7%E4%B8%80%E6%88%90%E7%B8%BE%E5%96%AE.pdf)
+![image](https://github.com/Thomas-debuger/Thomas-debuger.github.io/blob/main/Picture/%E5%A4%A7%E4%B8%80%E6%88%90%E7%B8%BE%E5%96%AE.jpg)
 
 * C++(連結)   
 * C# WinForm 應用開發(連結)   
