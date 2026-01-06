@@ -32,7 +32,6 @@
 * jQuery 網頁開發(https://github.com/Thomas-debuger/11401_CS203A/tree/main/My%20Programming%20Practical%20Works/jQuery)   
 * VHDL(https://github.com/Thomas-debuger/11401_CS203A/tree/main/My%20Programming%20Practical%20Works/VHDL)   
 * Verilog(https://github.com/Thomas-debuger/11401_CS203A/tree/main/My%20Programming%20Practical%20Works/Verilog)   
-每個作品加上 30 字以內的精華摘要   
 
 **未來展望與學習目標：**   
 * **興趣領域：** 因為對生物領域有興趣的關係，未來打算往生物資料庫建構(生醫資訊)及資料探勘(大數據分析)的方向深造   
