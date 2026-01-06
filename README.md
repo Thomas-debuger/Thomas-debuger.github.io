@@ -27,11 +27,11 @@
 • 積極參與 PUPC 等外部資訊競賽，培養面對未知技術挑戰的抗壓性。   
 
 **作品集：**
-* C++(連結)   
-* C# WinForm 應用開發(連結)   
-* jQuery 網頁開發(連結)   
-* VHDL(連結)   
-* Verilog(連結)   
+* C++(https://github.com/Thomas-debuger/11401_CS203A/tree/main/My%20Programming%20Practical%20Works/C%2B%2B)   
+* C# WinForm 應用開發(https://github.com/Thomas-debuger/11401_CS203A/tree/main/My%20Programming%20Practical%20Works/C%23)   
+* jQuery 網頁開發(https://github.com/Thomas-debuger/11401_CS203A/tree/main/My%20Programming%20Practical%20Works/jQuery)   
+* VHDL(https://github.com/Thomas-debuger/11401_CS203A/tree/main/My%20Programming%20Practical%20Works/VHDL)   
+* Verilog(https://github.com/Thomas-debuger/11401_CS203A/tree/main/My%20Programming%20Practical%20Works/Verilog)   
 每個作品加上 30 字以內的精華摘要   
 
 **未來展望與學習目標：**   
